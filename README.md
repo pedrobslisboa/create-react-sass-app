@@ -17,7 +17,7 @@ This project is a simple react app with a friendly sass design, you just need to
 ```
   ### After npm start
 ```
-  .
+.
 ├── public                
 ├── src 
     ├── styles

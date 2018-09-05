@@ -37,7 +37,7 @@ git clone https://github.com/pedrobslisboa/create-react-sass-app.git YOUR_APP_NA
 change the name of the app at package.json:
 ```diff
    {
--  "name": "create-react-redux-app",
+-  "name": "create-react-sass-app",
 +  "name": "YOUR_APP_NAME_HERE",
    "version": "0.1.0",
    "private": true,

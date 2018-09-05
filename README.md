@@ -12,7 +12,6 @@ This project is a simple react app with a friendly sass design, you just need to
 ├── public                
 ├── src 
     ├── styles
-        ├── css
         ├── scss
     ...  
 ```

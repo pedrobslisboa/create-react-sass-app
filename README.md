@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ---
 
-# Simple React App with Redux and Thunk
+# Simple React App with SASS
 This project is a simple react app with a friendly sass design, you just need to start to code!
 
 ## DESIGN
